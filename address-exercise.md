@@ -1,6 +1,6 @@
 ## Junior Software Engineer - Coding Exercise
 
-Write a method that creates a string representation of an address hash. Upload your code to github and invite samsworldofno to the repo. Any questions, please email! sam@resident.ly.
+Write a ruby method that creates a string representation of an address hash. Upload your code to github and invite samsworldofno to the repo. Any questions, please email! sam@resident.ly.
 
 The method will receive a hash in the following structure:
 
