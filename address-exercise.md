@@ -40,12 +40,10 @@ Some example outputs are below.
     Manchester,
     M1 1ER
 
-
     81 Station Road,
     Didsbury,
     Manchester,
     M20 1HR
-
 
     Holly House,
     Mersey Road,
