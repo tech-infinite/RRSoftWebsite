@@ -35,17 +35,17 @@ The following fields will always be present:
 
 Some example outputs are below.
 
-Flat 23, The Sorting House,
-83 Newton Street,
-Manchester,
-M1 1ER
+    Flat 23, The Sorting House,
+    83 Newton Street,
+    Manchester,
+    M1 1ER
 
-81 Station Road,
-Didsbury,
-Manchester,
-M20 1HR
+    81 Station Road,
+    Didsbury,
+    Manchester,
+    M20 1HR
 
-Holly House,
-Mersey Road,
-Manchester,
-M33 6HL
+    Holly House,
+    Mersey Road,
+    Manchester,
+    M33 6HL
