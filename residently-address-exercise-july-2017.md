@@ -19,7 +19,7 @@ The method will receive a hash in the following structure:
 
     [subpremise], [house_name],
     [house_number] [street_line_1],
-    [street_line_2]
+    [street_line_2],
     [town_or_city],
     [region],
     [postcode]
