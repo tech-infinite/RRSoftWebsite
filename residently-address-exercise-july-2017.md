@@ -9,7 +9,7 @@ The method will receive a hash in the following structure:
       "house_number" => nil,
       "house_name" => "22",
       "street_line_1" => "Bailey Rd",
-      "street_line_2" => null,
+      "street_line_2" => nil,
       "town_or_city" => "Sale",
       "region" => "Greater Manchester",
       "postcode" => "M33 1AX"
