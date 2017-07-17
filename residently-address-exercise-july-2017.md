@@ -6,8 +6,8 @@ The method will receive a hash in the following structure:
 
     {
       "subpremise" => "Apt 6",
-      "house_number" => nil,
-      "house_name" => "22",
+      "house_number" => "22",
+      "house_name" => nil,
       "street_line_1" => "Bailey Rd",
       "street_line_2" => nil,
       "town_or_city" => "Sale",
