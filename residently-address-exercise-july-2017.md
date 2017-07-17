@@ -12,7 +12,7 @@ The method will receive a hash in the following structure:
       "street_line_2": null,
       "town_or_city": "Sale",
       "region": "Greater Manchester",
-      "postcode": "M33 1AX",
+      "postcode": "M33 1AX"
     }
 
 ... and return an address string in the following format:
